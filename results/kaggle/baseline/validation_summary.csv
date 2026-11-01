@@ -1,0 +1,4 @@
+seed,best_epoch,best_validation_f1,checkpoint
+42,8,0.965619442797866,C:\Users\Eric\Desktop\AIGC 5500\AIGC5500-Midterm-Project\checkpoints\kaggle\baseline\best_seed_42.pt
+123,9,0.9621686029192733,C:\Users\Eric\Desktop\AIGC 5500\AIGC5500-Midterm-Project\checkpoints\kaggle\baseline\best_seed_123.pt
+2026,10,0.9638049655997607,C:\Users\Eric\Desktop\AIGC 5500\AIGC5500-Midterm-Project\checkpoints\kaggle\baseline\best_seed_2026.pt
