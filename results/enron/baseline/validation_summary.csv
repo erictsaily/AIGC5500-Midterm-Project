@@ -1,0 +1,4 @@
+seed,best_epoch,best_validation_f1,checkpoint
+42,10,0.988772317320081,C:\Users\Nouroz\Desktop\AI Machine Learning Semester Two\Advanced Deep Learning - AIGC-5500-0NA\Midtrem\AIGC5500-Midterm-Project\checkpoints\enron\baseline\best_seed_42.pt
+123,9,0.9882266372332597,C:\Users\Nouroz\Desktop\AI Machine Learning Semester Two\Advanced Deep Learning - AIGC-5500-0NA\Midtrem\AIGC5500-Midterm-Project\checkpoints\enron\baseline\best_seed_123.pt
+2026,10,0.9889827396254132,C:\Users\Nouroz\Desktop\AI Machine Learning Semester Two\Advanced Deep Learning - AIGC-5500-0NA\Midtrem\AIGC5500-Midterm-Project\checkpoints\enron\baseline\best_seed_2026.pt
