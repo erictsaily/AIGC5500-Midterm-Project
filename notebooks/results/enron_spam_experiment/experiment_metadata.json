@@ -1,0 +1,28 @@
+{
+    "group": "MVPs",
+    "course": "Advanced Deep Learning - AIGC-5500-0NA",
+    "dataset_id": "SetFit/enron_spam",
+    "train_rows": 26914,
+    "validation_rows": 4751,
+    "test_rows": 2000,
+    "vocabulary_size": 10000,
+    "max_length": 256,
+    "batch_size": 64,
+    "epochs": 10,
+    "seeds": [
+        42,
+        123,
+        2026
+    ],
+    "models": [
+        "Baseline",
+        "CNN",
+        "LSTM",
+        "Transformer"
+    ],
+    "device": "cuda",
+    "label_mapping": {
+        "0": "ham",
+        "1": "spam"
+    }
+}
