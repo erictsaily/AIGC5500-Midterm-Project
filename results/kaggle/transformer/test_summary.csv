@@ -1,0 +1,4 @@
+,test_accuracy,test_accuracy,test_f1,test_f1
+,mean,std,mean,std
+variant,,,,
+Transformer (full),0.9621666666666666,0.004856267428111207,0.9594966505940593,0.005249410982418378

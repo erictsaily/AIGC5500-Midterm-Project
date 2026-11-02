@@ -1,0 +1,4 @@
+variant,seed,test_accuracy,test_f1
+Transformer (full),42,0.961,0.9584664536741214
+Transformer (full),123,0.9675,0.9651847884306374
+Transformer (full),2026,0.958,0.9548387096774194
