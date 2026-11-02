@@ -1,0 +1,4 @@
+,test_accuracy,test_accuracy,test_f1,test_f1
+,mean,std,mean,std
+variant,,,,
+CNN (full),0.9594999999999999,0.0060621778264910685,0.9574438892534937,0.005921164535377751

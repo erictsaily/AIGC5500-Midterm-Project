@@ -1,0 +1,4 @@
+,val_accuracy,val_accuracy,val_macro_f1,val_macro_f1,val_spam_f1,val_spam_f1
+,mean,std,mean,std,mean,std
+variant,,,,,,
+LSTM,0.9453096032628846,0.0013996726798796116,0.9450640788050643,0.0014668010355442605,0.9414101118291232,0.002012021500421968

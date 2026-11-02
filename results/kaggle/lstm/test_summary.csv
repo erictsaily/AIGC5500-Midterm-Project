@@ -1,0 +1,4 @@
+,test_accuracy,test_accuracy,test_macro_f1,test_macro_f1,test_spam_f1,test_spam_f1,test_spam_precision,test_spam_precision,test_spam_recall,test_spam_recall
+,mean,std,mean,std,mean,std,mean,std,mean,std
+variant,,,,,,,,,,
+LSTM,0.9441666666666667,0.0041932485418030435,0.9439724592326391,0.004262090055278573,0.9407069355372643,0.004997279930479161,0.9356909473815541,0.006139414052125853,0.9459267164710067,0.014992036645823872
