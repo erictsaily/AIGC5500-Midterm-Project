@@ -7,6 +7,16 @@
 | **Course** | Advanced Deep Learning (AIGC-5500-0NA) |
 | **Professor** | Hossein Pourmodheji |
 
+## Video presentation
+
+| | |
+| --- | --- |
+| **Presenter** | Eric Ly |
+| **Length** | About 18 minutes |
+| **Link** | [Watch the video on Humber OneDrive](https://humberital-my.sharepoint.com/:v:/g/personal/n10036594_humber_ca/IQADQd-ZE1xWTaNdK7gpyoivAWmV8NxotfbkBtpxNDcSZo0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PZHirC) |
+
+Written report: `docs/AIGC5500_Midterm_Report.pdf`.
+
 ## Project overview
 
 Text classification project using the Enron spam dataset. The current implementation includes the initial LSTM notebook, environment configuration, reproducibility utilities, and dataset loading.
