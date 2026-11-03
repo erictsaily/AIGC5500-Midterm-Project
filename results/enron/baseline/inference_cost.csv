@@ -1,0 +1,2 @@
+variant,parameters,ms_per_sample_batch1_mean,ms_per_sample_batch1_median,ms_per_sample_batch64,peak_memory_mb,memory_measure,samples_timed,hardware
+Baseline,640130,0.48901133219866705,0.2504499861970544,0.03594200010411441,23.709696,CUDA peak allocated (includes weights),300,GPU: NVIDIA GeForce RTX 3060 Laptop GPU

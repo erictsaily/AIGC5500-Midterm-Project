@@ -1,0 +1,4 @@
+,test_accuracy,test_accuracy,test_f1,test_f1
+,mean,std,mean,std
+variant,,,,
+Baseline,0.9899040888440181,0.001009591115598174,0.9899568121733163,0.0009994787263265996
